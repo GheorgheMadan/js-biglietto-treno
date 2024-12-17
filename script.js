@@ -34,6 +34,6 @@ if (isNaN(km) || km <= 50) {
             }
         // ALTRIMENTI paga il prezzo intero
         else {
-            console.log(costoTotale)
+            console.log(costoTotale.toFixed(2))
         }
 }
