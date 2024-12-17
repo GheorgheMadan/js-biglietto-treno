@@ -1,7 +1,8 @@
 // Biglietto del treno
-// INPUT dei km che il cliente vuole percorrere e l'età 
+// INPUT dei km che il cliente vuole percorrere 
 // l'utente inserisce il numero di km che percorre
-// il PC  calcola quanto spenderà in base ai km che l'utente farà 
+// il PC  calcola quanto spenderà in base ai km che l'utente farà
+// INPUT dell'età del cliente
 // l'utente inserisce la sua età
 // SE ha meno di 18 anni 
     // allora avrà uno sconto del 20%
